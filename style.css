@@ -86,6 +86,7 @@ Page Styles
 
   .landmark figure image alt {
     display: block;
+    padding: var(--space-2);
   } 
   
 
