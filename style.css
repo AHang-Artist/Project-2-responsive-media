@@ -84,12 +84,11 @@ Page Styles
     display:block;
   }
 
-  .landmark figure img alt {
+  /* .landmark figure img alt {
     display: block;
     padding: var(--space-2);
     bottom: 20px;
-  } 
-  
+  }  */
 
   .landmark figcaption {
     position: absolute;
