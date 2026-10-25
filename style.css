@@ -84,7 +84,7 @@ Page Styles
     display:block;
   }
 
-  .landmark figure image alt {
+  .landmark figure img alt {
     display: block;
     padding: var(--space-2);
     bottom: 20px;
