@@ -87,7 +87,7 @@ Page Styles
   .landmark figure image alt {
     display: block;
     padding: var(--space-2);
-    bottom: 2px;
+    bottom: 20px;
   } 
   
 
